@@ -3,7 +3,7 @@ requires = ["pdm-backend"]
 build-backend = "pdm.backend"
 
 [project]
-name = "failprint"
+name = "failprint2"
 description = "Run a command, print its output only if it fails."
 authors = [{name = "Timothée Mazzucotelli", email = "dev@pawamoy.fr"}]
 license = {text = "ISC"}
